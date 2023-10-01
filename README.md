@@ -1,15 +1,19 @@
+<h1 align="center">Hi 👋, I'm Monsef chaibi</h1>
+<h3 align="center">I am a Full-Stack Developer From Morocco.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=monsef-chaibi&label=Profile%20views&color=0e75b6&style=flat" alt="monsef-chaibi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monsef-chaibi" alt="monsef-chaibi" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning : **Flutter**
 
-- 👨‍💻 My Portfolio: [https://monsef-chaibi.github.io/Portfolio-FR/](https://monsef-chaibi.github.io/Portfolio-FR/)
+- 👨‍💻 My Portfolio : [https://monsef-chaibi.github.io/Portfolio-FR/](https://monsef-chaibi.github.io/Portfolio-FR/)
 
-- 💬 Ask me about **Laravel , PHP**
+- 💬 Ask me about : **Laravel , PHP**
 
-- 📫 How to reach me **win.monsef@gmail.com**
+- 📫 How to reach me : **win.monsef@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact : **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
