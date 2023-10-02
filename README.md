@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monsef chaibi</h1>
 <h3 align="center">I am a Full-Stack Developer From Morocco.</h3>
-<img align="right" alt="Coding"  style="border-radius: 30px;height: 70%;" width="40%" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
+<img align="right" alt="Coding"  style="border-radius: 30px;height: 60%;" width="40%" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif">
 - 🌱 I’m currently learning : **Flutter** 
 
 - 👨‍💻 My Portfolio : [https://monsef-chaibi.github.io/Portfolio-FR/](https://monsef-chaibi.github.io/Portfolio-FR/)
