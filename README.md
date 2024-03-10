@@ -80,7 +80,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/Monsef-Chaibi/Monsef-Chaibi/output/snake.svg" alt="Snake animation" />
-
-###
