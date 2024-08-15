@@ -2,13 +2,11 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://imgtr.ee/images/2024/03/10/ed7b123d50fad184a1b6001d3979e2d0.jpeg"  />
-</div>
+
 
 ###
 
-<h4 align="center">🚀 Welcome to my GitHub profile ! <br><br>As a passionate and seasoned developer specializing in PHP, Laravel, and diving deep into the realms of React and database management (SQL & NoSQL), I thrive on challenging myself with complex projects that push the boundaries of web development. My journey has led me through a diverse array of projects, from creating dynamic websites to developing robust online platforms that prioritize performance and security.<br><br>🎨 Explore my portfolio here at https://monsef-chaibi.github.io/Portfolio-EN/ .Each project showcases my dedication to innovation, functionality, and my unwavering commitment to excellence. My portfolio is a clear reflection of my continuous pursuit to learn and apply the latest technologies, ensuring each contribution not only meets but exceeds the modern web development standards.<br><br>🤝 I'm always on the lookout for new opportunities to collaborate on exciting projects or to contribute to open-source initiatives. Whether you're seeking a partner for your next project or interested in exchanging ideas, feel free to reach out or fork any of my projects to start something amazing together.<br><br>Let's innovate, create, and make the digital world a better place, one commit at a time.</h4>
+<h4 align="center">🚀 Welcome to my GitHub profile ! <br><br>As a passionate and seasoned developer specializing in PHP, Laravel, and diving deep into the realms of React and database management (SQL & NoSQL), I thrive on challenging myself with complex projects that push the boundaries of web development. My journey has led me through a diverse array of projects, from creating dynamic websites to developing robust online platforms that prioritize performance and security.<br><br>🎨 Explore my portfolio here at https://nrg-tech.xyz .Each project showcases my dedication to innovation, functionality, and my unwavering commitment to excellence. My portfolio is a clear reflection of my continuous pursuit to learn and apply the latest technologies, ensuring each contribution not only meets but exceeds the modern web development standards.<br><br>🤝 I'm always on the lookout for new opportunities to collaborate on exciting projects or to contribute to open-source initiatives. Whether you're seeking a partner for your next project or interested in exchanging ideas, feel free to reach out or fork any of my projects to start something amazing together.<br><br>Let's innovate, create, and make the digital world a better place, one commit at a time.</h4>
 
 ###
 
